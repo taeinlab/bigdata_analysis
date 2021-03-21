@@ -1,0 +1,3 @@
+main_character	second_character
+habi    mike
+habi    rachel
