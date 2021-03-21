@@ -1,5 +1,0 @@
-num	name
-100	happy
-200	bright
-300	pretty
-SKK	University
