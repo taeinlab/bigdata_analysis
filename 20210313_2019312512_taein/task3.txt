@@ -1,5 +1,0 @@
-name	price	sales
-Apple	200.5	15
-Banana	150.3	30
-Kiwi	300.2	50
-Melon	550.0	45
